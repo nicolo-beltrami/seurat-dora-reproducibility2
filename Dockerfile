@@ -1,4 +1,4 @@
-FROM satijalab/seurat:4.4.0
+FROM satijalab/seurat:4.3.0
 
 USER root
 
